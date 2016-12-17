@@ -12,7 +12,7 @@ if ($#ARGV != 3) {
 
 print "\n";
 print "\n";           
-print     "UDP DoS Script Modificada Por: Hexhork\n";
+print     "UDP DoS Script Modificada Por: Hexhork (no te dare mi nombre)\n";
 
 print "\n";
 print "--------------------------------------------\n";
